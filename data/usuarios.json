@@ -1,0 +1,12 @@
+{
+    "weylis12": {
+        "password": "secure123",
+        "nombre": "Weylis Solano",
+        "rol": "Empleado"
+    },
+    "tecnico_juan": {
+        "password": "admin123",
+        "nombre": "Juan Pérez",
+        "rol": "SoporteIT"
+    }
+}

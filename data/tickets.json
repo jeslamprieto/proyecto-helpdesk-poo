@@ -1,0 +1,13 @@
+[
+    {
+        "id_ticket": 1,
+        "creador": "weylis12",
+        "categoria": "Accesos",
+        "descripcion": "TK creado de Prueba",
+        "prioridad": "Alta",
+        "estado": "Resuelto",
+        "fecha_creacion": "2026-06-14 08:32:51",
+        "tecnico_asignado": "tecnico_juan",
+        "resolucion": "TK resuelto de Prueba"
+    }
+]
