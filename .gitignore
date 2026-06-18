@@ -1,0 +1,23 @@
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Caché de pytest
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+env/
+.env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos de datos generados (opcional, comentar si se quieren subir)
+# data/tickets.json
